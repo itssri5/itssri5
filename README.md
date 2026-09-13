@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" width="300" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Typing at a computer while it catches fire" />
+
 I'm an AI researcher and builder. Alongside my research, I work on computer vision, AI agents, and developer tools, and like turning messy platform problems into simple products.
 
 ### 🔭 Interested in
