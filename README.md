@@ -2,11 +2,11 @@
 
 <img align="right" width="300" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Typing at a computer while it catches fire" />
 
-I'm an AI researcher and builder. Alongside my research, I work on computer vision, AI agents, and developer tools, and like turning messy platform problems into simple products.
+I'm an AI researcher and builder. Alongside my research, I enjoy working on computer vision, Agentic, and dev experience tooling, and like turning consumer problems into simple products.
 
 ### 🔭 Interested in
 
-🔬 AI research · 👁️ Computer vision · 🤖 AI agents & MCP · 🧠 RAG · 🧑‍💻 Developer experience · 📈 Observability · ☁️ Cloud cost · 🔧 IoT & robotics
+🔬 AI research · 👁️ Computer vision · 🤖 AI agents & MCP · 🧠 RAG/Memory/Context Management · 🧑‍💻 Developer experience · 📈 Observability · ☁️ Cloud cost/FINOPS · 🔧 IoT & robotics
 
 ### 🧰 Tools
 
