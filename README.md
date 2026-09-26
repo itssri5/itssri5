@@ -4,11 +4,18 @@
 
 Applied AI researcher, Builder, PM/TPM. Alongside that, I work on agentic systems, inference, and the tooling around them, and I'm learning my way into computer vision through side projects. What I enjoy most is turning consumer problems into simple products people actually use.
 
-### 🔭 Interested in
+### Interested in
 
-🔬 Applied AI research · 👁️ Computer vision · 🤖 AI agents & MCP · 🧠 RAG/Memory/Context Management · 🧑‍💻 Developer experience · 📈 Observability · ☁️ Cloud cost/FINOPS · 🔧 IoT & robotics
+- Applied AI Research
+- Computer Vision
+- AI Agents & MCP
+- RAG, Memory & Context Management
+- Developer Experience
+- Observability
+- Cloud Cost Optimization & FinOps
+- IoT & Robotics
 
-### 🧰 Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,postgres,redis,gcp,aws,azure,kubernetes,docker,kafka,grafana,nextjs,react,ts,raspberrypi&perline=9" alt="Python, PyTorch, OpenCV, FastAPI, Postgres, Redis, GCP, AWS, Azure, Kubernetes, Docker, Kafka, Grafana, Next.js, React, TypeScript, Raspberry Pi" />
 
