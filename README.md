@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Typing at a computer while it catches fire" />
 
-Builder, PM/TPM, Applied AI researcher. Alongside that, I work on agentic systems, inference, and the tooling around them, and I'm learning my way into computer vision through side projects. What I enjoy most is turning consumer problems into simple products people actually use.
+Builder, PM/TPM, Applied AI researcher. I work on agentic systems, inference, and the tooling around them, and I'm learning my way into computer vision through side projects. What I enjoy most is turning consumer problems into simple products people actually use.
 
 ### Interested in
 
