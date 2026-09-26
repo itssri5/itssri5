@@ -9,9 +9,9 @@ Applied AI researcher, Builder, PM/TPM. Alongside that, I work on agentic system
 - Applied AI Research
 - Computer Vision
 - AI Agents & MCP
-- RAG, Memory & Context Management
+- Memory, Context Management & Harness Engg.
 - Developer Experience
-- Observability
+- Observability, Evals
 - Cloud Cost Optimization & FinOps
 - IoT & Robotics
 
